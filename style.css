@@ -1,0 +1,30 @@
+.row {
+    display: flex;
+    list-style: none;
+    height: 10rem;
+    color: white;
+    font-size: 3rem;
+    background-color: white;
+    text-align: center;
+}
+
+div.col {
+    margin: 1rem;
+    padding: 2rem 0rem;
+    background-color: #5998A0;
+    flex: 1;
+}
+
+.col-2 {
+    margin: 1rem;
+    padding: 2rem 0rem;
+    background-color: #5998A0;
+    flex: 2;
+}
+
+.col-3 {
+    margin: 1rem;
+    padding: 2rem 0rem;
+    background-color: #5998A0;
+    flex: 3;
+}
